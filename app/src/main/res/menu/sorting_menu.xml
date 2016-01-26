@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sortBydate"
+        android:orderInCategory="300"
+        android:title="@string/sortByDate"
+        />
+    <item
+        android:id="@+id/sortByTitle"
+        android:orderInCategory="200"
+        android:title="@string/sortByTitle"
+         />
+    <item
+        android:id="@+id/sortByPriority"
+        android:orderInCategory="100"
+        android:title="@string/sortByPriority"
+        />
+    <item
+        android:id="@+id/recycleBin"
+        android:orderInCategory="400"
+        android:title="@string/recycleBin"
+        />
+</menu>

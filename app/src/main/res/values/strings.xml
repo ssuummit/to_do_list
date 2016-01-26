@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="sortByDate">SortByDate</string>
+    <string name="sortByTitle">SortByTitle</string>
+    <string name="sortByPriority">SortByPriority</string>
+    <string name="recycleBin">RecycleBin</string>
+
+    <string-array name="priority">
+        <item>P0</item>
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
